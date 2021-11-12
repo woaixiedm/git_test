@@ -13,6 +13,7 @@ public class GitTest {
         System.out.println("thrid,change");
         System.out.println("hello,hot-fix");
         System.out.println("hot-fox change1");
+        System.out.println("hot-fox,change2");
     }
 
 }
