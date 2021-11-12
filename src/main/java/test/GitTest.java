@@ -12,7 +12,6 @@ public class GitTest {
         System.out.println("second,change");
         System.out.println("thrid,change");
         System.out.println("hello,hot-fix");
-        System.out.println("i am master");
     }
 
 }
